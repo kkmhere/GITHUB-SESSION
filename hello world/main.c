@@ -7,3 +7,6 @@ int main()
     printf("This is GIT Hub sesson");
     return 0;
 }
+
+
+//its github not git hub
