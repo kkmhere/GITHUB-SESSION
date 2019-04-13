@@ -10,3 +10,6 @@ COMMANDS
 
 git config --global user.email "xyg"
 git config --global user.name  "cccc"
+
+
+@copyright kkmhere
